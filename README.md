@@ -18,3 +18,4 @@ Templates on github
 - https://github.com/davidcarayon/cv-typst
 - https://github.com/nik-rev/typst-resume
 - https://github.com/KiranWells/hackable-typst-resume/tree/main
+- https://github.com/crystalsolenoid/typst-resume-template
