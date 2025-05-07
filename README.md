@@ -1,6 +1,10 @@
 # awesome-typst-resume
 
-A curated list of good typst resumes templates
+My resume template:
+
+![alt text](morriswong/image.png)
+
+Checkout more good typst resumes templates:
 
 Templates on typst.app
 - https://typst.app/universe/package/basic-resume
@@ -19,6 +23,8 @@ Templates on github
 - https://github.com/nik-rev/typst-resume
 - https://github.com/KiranWells/hackable-typst-resume/tree/main
 - https://github.com/crystalsolenoid/typst-resume-template
+
+Need more inspiration? Checkout the links below:
 
 Other Templates (Non-typst)
 - https://blog.pragmaticengineer.com/the-pragmatic-engineers-resume-template/
