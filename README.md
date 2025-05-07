@@ -2,6 +2,9 @@
 
 This repository provides a clean and customizable resume template built with Typst. It is designed to help you quickly create a professional-looking CV with minimal effort right inside your IDE. Feel free to use this template as a starting point for your own resume and explore the additional resources and examples linked below for further inspiration.
 
+### Prerequisite
+To use and preview Typst files directly in your IDE, please install the [TinyMist VS Code extension](https://marketplace.visualstudio.com/items?itemName=myriad-dreamin.tinymist). This extension enables Typst support and live preview within Visual Studio Code.
+
 Here is my resume template:
 
 ![alt text](morriswong/image.png)
