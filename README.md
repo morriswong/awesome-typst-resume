@@ -1,10 +1,12 @@
 # awesome-typst-resume
 
-My resume template:
+This repository provides a clean and customizable resume template built with Typst. It is designed to help you quickly create a professional-looking CV with minimal effort right inside your IDE. Feel free to use this template as a starting point for your own resume and explore the additional resources and examples linked below for further inspiration.
+
+Here is my resume template:
 
 ![alt text](morriswong/image.png)
 
-Checkout more good typst resumes templates:
+### Checkout more good typst resumes templates:
 
 Templates on typst.app
 - https://typst.app/universe/package/basic-resume
@@ -24,7 +26,7 @@ Templates on github
 - https://github.com/KiranWells/hackable-typst-resume/tree/main
 - https://github.com/crystalsolenoid/typst-resume-template
 
-Need more inspiration? Checkout the links below:
+### Need more inspiration? Checkout the links below:
 
 Other Templates (Non-typst)
 - https://blog.pragmaticengineer.com/the-pragmatic-engineers-resume-template/
