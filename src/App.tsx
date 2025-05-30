@@ -1,9 +1,10 @@
 import { useState } from 'react'
 import Editor from '@monaco-editor/react'
 import * as Tabs from '@radix-ui/react-tabs'
+import resumeContent from './resumeContent'
 
 function App() {
-  const [typstCode, setTypstCode] = useState(``)
+  const [typstCode, setTypstCode] = useState(resumeContent)
 
   return (
     <div className="min-h-screen bg-gray-100">
@@ -34,7 +35,7 @@ function App() {
             <Tabs.Content value="editor" className="p-4">
               <Editor
                 height="70vh"
-                defaultLanguage="typescript"
+                defaultLanguage="typst"
                 value={typstCode}
                 onChange={(value) => setTypstCode(value || '')}
                 theme="vs-dark"
